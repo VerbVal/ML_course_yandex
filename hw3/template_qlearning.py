@@ -140,7 +140,6 @@ class QLearningAgent:
         probabilities = np.exp(q_values / self.temp) / sum(np.exp(q_values / self.temp))
         return dict(zip(possible_actions, probabilities))
         assert q_values is not None
-        probabilities = None
         assert probabilities is not None
 
         return probabilities
