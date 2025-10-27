@@ -4,6 +4,7 @@ https://yandex.ru/yaintern/training/ml-training
 4 поток курсов ML от Яндекса.
 
 Полезные ссылки:
+https://dataverse.harvard.edu/
 канал 3blue1brown, где есть чудесные видеоролики по математике и не только. Автор – Grant Sanderson. Часть видео 3blue1brown переводили на канале VertDider.
 
 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
